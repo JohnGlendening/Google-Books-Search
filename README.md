@@ -22,7 +22,7 @@ This App is deployed on Heroku: [Google Books Search](https://google-books-searc
 MVC design pattern: Model, View, Controller.
 
 <h2 align="center">
-<img alt="mern" src="client/public/images/screenshot.jpg" width="50%">
+<img alt="mern" src="client/public/images/mern.jpg" width="50%">
 </h2>
 
 - [MongoDB](mongodb.com)
