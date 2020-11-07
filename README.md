@@ -53,4 +53,4 @@ MVC design pattern: Model, View, Controller.
 
 ## Author
 
-Victoire Baron | [Victoire44](https://github.com/Victoire44)
+John Glendening | [JohnGlendening](https://github.com/JohnGlendening)
