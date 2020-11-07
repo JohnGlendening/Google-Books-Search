@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployment 
 
-This App is deployed on Heroku: [Google Books Search](https://google-books-search-vb.herokuapp.com/)
+This App is deployed on Heroku: [search-a-book-by-glendening](https://search-a-book-by-glendening.herokuapp.com/)
 
 ## Technologies used
 
